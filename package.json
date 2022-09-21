@@ -1,0 +1,8 @@
+{
+  "name": "learn_git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MrWerton/git_commands.git",
+  "author": "werton <mr.werton@gmail.com>",
+  "license": "MIT"
+}
